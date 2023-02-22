@@ -8,7 +8,7 @@ import igLogoBlack from "./assets/instagram_black.png";
 import linkedLogoBlack from "./assets/linked_black.png";
 import frontEndLogo from "./assets/bg-coding.jpg";
 import photographyLogo from "./assets/bg-photography.jpg";
-import gallery_1 from "./assets/gallery-1.jpg";
+import gallery_1 from "./assets/gallery.jpg";
 import gallery_2 from "./assets/gallery-2.jpg";
 import gallery_3 from "./assets/gallery-3.jpg";
 import gallery_4 from "./assets/gallery-4.jpg";
